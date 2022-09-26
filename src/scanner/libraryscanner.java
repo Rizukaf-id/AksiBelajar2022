@@ -17,5 +17,7 @@ public class libraryscanner {
         
         //output
         System.out.println("$" + dolar + " sama dengan Rp"+rupiah);
+        
+        //test commit
     }
 }
