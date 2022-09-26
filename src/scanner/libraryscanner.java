@@ -7,7 +7,7 @@ public class libraryscanner {
         Scanner scan = new Scanner(System.in);
         //inisialisasi variabel dan tipe data
         int dolar, rupiah;
-        System.out.print("Masukkan Nominal");
+        System.out.print("Masukkan Nominal > ");
         
         //input nominal
         dolar = scan.nextInt();
